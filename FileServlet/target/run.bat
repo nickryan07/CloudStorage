@@ -1,0 +1,3 @@
+@echo off
+java -jar FileServlet-0.0.1-SNAPSHOT.jar
+pause
